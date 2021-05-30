@@ -7,7 +7,7 @@
 # Interaçoes:
 + scroll css estilizado
 + Menu mobile none e interativo  
-+ Page Resposiva  
++ Page Responsiva  
  
 <hr>
 
